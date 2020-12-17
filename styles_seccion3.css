@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 81, 0);
+}
+h1{
+    text-align: center;
+    color: rgb(7, 26, 7);
+    font-size: 35px;
+    background-color: gold;
+}
+h2{
+    text-align: center;
+    color: rgb(13, 17, 13);
+    font-size: 30px;
+    background-color: lightblue;
+}
+p{
+    text-align: center;
+    color: maroon;
+    font-size: 1.5em;
+    font-family: cursive;
+    border: 0.5em solid;
+    background-color: mintcream;
+}
+video{
+    background-color: rgb(64, 223, 15);
+    border: 00.5em solid;
+}
+a{
+    color: saddlebrown;
+    background-color: snow;
+    font-size: 28px;
+}
+video{
+    margin: 10%;
+    width: 1000px;
+    height: 500px;
+}

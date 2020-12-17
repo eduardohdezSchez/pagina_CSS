@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(21, 175, 247);
+}
+h1{
+    text-align: center;
+    color:white;
+}
+p{
+    color: rgb(12, 12, 15);
+    background-color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+dt{
+    color: brown;
+}
+a{
+    font-size: 28px;
+    background-color: chartreuse;
+}
+img{
+    width: 50%;
+    height: 50%;
+    border: 0.8em solid;
+}
+dl{
+    background-color: darksalmon;
+}

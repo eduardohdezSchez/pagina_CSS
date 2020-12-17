@@ -1,0 +1,34 @@
+body{
+    background-color: crimson;
+}
+h1{
+    color: cyan;
+    font-size: 5em;
+    text-align: center;
+    background-color: darkgrey;
+    font-family: fantasy;
+}
+h2{
+    color: floralwhite;
+    background-color: fuchsia;
+    font-family: cursive;
+}
+img{
+    width: 50%;
+    height: 50%;
+    background-color: gold;
+    border: 0.8em solid;
+}
+p{
+    background-color: gold;
+    font-size: 1em;
+    font-family: cursive;
+    color: black;
+    border: 0.5em solid;
+}
+a{
+    background-color: burlywood;
+    color: rgb(94, 99, 90);
+    font-family: cursive;
+    font-size: 2em;
+}

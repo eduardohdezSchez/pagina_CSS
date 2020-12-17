@@ -1,0 +1,52 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    color: rgb(250, 244, 244);
+    background-color: brown;
+
+}
+h2{
+    color: rgb(14, 11, 9);
+    background-color: cyan;
+}
+
+a{
+    font-size: 2em;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+img{
+    width: 50%;
+    height: 40%;
+    background-color: blueviolet;
+}
+
+
+p{
+
+    display:inline-block ;
+    width: 30%;
+    border: .25em solid;
+    padding: 1mm;
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+p{
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+p.estilo-1::first-letter{
+    font-size: 3em;
+    font-family: serif;
+}
+nav{
+    background-color: aqua;
+    display: inline-block;
+    padding: .3em;
+    border-radius: 1em;
+}
